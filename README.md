@@ -78,9 +78,13 @@ xnor(yxnor,a,b);
 endmodule
 ````
 ## 0utput:
-
+RTL DIAGRAM
 ![output](.//2.png)
+
+TRUTH TABLE:
 ![output](.//3.png)
+
+OUTPUT VERIFIED:
 ![output](.//1.png)
 
 ## Result:
